@@ -1,0 +1,91 @@
+a {
+  border: none;
+}
+
+* {
+  outline: none;
+}
+
+* {
+}
+
+*:before, *:after {
+}
+
+#wp {
+  height: 60px;
+  width: 60px;
+  right: 40px;
+  bottom: 40px;
+  border-radius: 50px;
+  background-color: rgb(38,231,7);
+  font-size: 30px;
+  text-align: center;
+  box-shadow: 2px 2px 3px #000000;
+  color: #FFF;
+}
+
+#wp:hover {
+  text-decoration: none;
+}
+
+#wp {
+  height: 60px;
+  width: 60px;
+  right: 40px;
+  bottom: 40px;
+  border-radius: 50px;
+  background-color: rgb(38,231,7);
+  font-size: 30px;
+  text-align: center;
+  box-shadow: 2px 2px 3px #000000;
+  color: #FFF;
+}
+
+* {
+}
+
+*:before, *:after {
+}
+
+#wp {
+  height: 60px;
+  width: 60px;
+  right: 40px;
+  bottom: 40px;
+  border-radius: 50px;
+  background-color: rgb(38,231,7);
+  font-size: 30px;
+  text-align: center;
+  box-shadow: 2px 2px 3px #999;
+  color: #FFF;
+}
+
+#wp:hover {
+  text-decoration: none;
+}
+
+/* @media (min-width: 300px) {
+  #wp {
+    position: absolute;
+    top: 140%;
+    left: 30%;
+  }
+}
+
+@media (min-width: 768px) {
+  #wp {
+    position: absolute;
+    top: 70%;
+    left: 55%;
+  }
+}
+
+@media (min-width: 1200px) {
+  #wp {
+    position: absolute;
+    top: 70%;
+    left: 55%;
+  }
+} */
+

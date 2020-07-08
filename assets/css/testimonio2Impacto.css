@@ -1,0 +1,11 @@
+.row {
+  padding: 7px;
+}
+
+#testimonioIntro {
+  width: 150px;
+  height: 150px;
+  background: white;
+  border-radius: 50%;
+}
+

@@ -1,0 +1,119 @@
+.bg-secondary {
+  background-color: #f6f7f8!important;
+}
+
+.rounded {
+  border-radius: .25rem!important;
+}
+
+.rounded {
+  border-radius: .25rem!important;
+}
+
+.ml-auto, .mx-auto {
+  margin-left: auto!important;
+}
+
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+  background-color: rgb(194,28,51);
+  border-color: rgb(194,28,51);
+  color: #fff;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active:focus, .btn-primary:not(:disabled):not(.disabled):active:focus, .show > .btn-primary.dropdown-toggle:focus {
+  box-shadow: 0 0 0 .2rem rgba(194,28,21,0.5);
+}
+
+.cta {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: rgba(194,28,51,0.9);
+}
+
+.bg-faded {
+  background-color: rgb(246,247,248);
+}
+
+@media (min-width:992px) {
+  .intro .intro-img {
+    width: 100%;
+    float: none;
+  }
+}
+
+@media (min-width: 300px) {
+  #letrasTarjetah1 {
+    font-size: 15px;
+  }
+}
+
+@media (min-width: 300px) {
+  #wsIcon {
+    margin-left: 0px!important;
+  }
+}
+
+@media (min-width: 992px) {
+  #wsIcon {
+    margin-left: 90px!important;
+  }
+}
+
+@media (min-width: 1200px) {
+  #wsIcon {
+    margin-left: 90px!important;
+  }
+}
+
+@media (min-width: 576px) {
+  #headerIntro {
+  }
+}
+
+@media (min-width: 768px) {
+  #letrasTarjetah1 {
+    font-size: 30px;
+  }
+}
+
+@media (min-width: 992px) {
+  #letrasTarjetah1 {
+    font-size: 35px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #letrasTarjetah1 {
+    font-size: 40px;
+  }
+}
+
+@media (min-width: 300px) {
+  #letrasTarjeta-1h3 {
+    font-size: 10px;
+  }
+}
+
+@media (min-width: 576px) {
+  #letrasTarjeta-1h3 {
+    font-size: 15px;
+  }
+}
+
+@media (min-width: 768px) {
+  #letrasTarjeta-1h3 {
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #letrasTarjeta-1 {
+  }
+}
+
+#mainNav .navbar-nav .nav-item .nav-link {
+  color: hsla(0,0%,100%,.7);
+  font-weight: 800;
+  text-transform: none;
+}
+
